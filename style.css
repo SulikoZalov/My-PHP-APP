@@ -1,0 +1,27 @@
+body {
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.container {
+	margin-top: 100px !important;
+}
+
+.navbar-brand {
+	font-weight: 700 !important;
+}
+
+.card {
+	width: 32% !important;
+	margin-left: 1% !important;
+}
+
+
+.action {
+	margin-top: 100px !important;
+}
+
+.form-control {
+	margin-bottom: 5px !important;
+}
+
+
